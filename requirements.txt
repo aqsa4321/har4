@@ -7,4 +7,5 @@ tpot == 0.11.1
 pillow==7.0.0
 protobuf==3.20.0
 click<=8.0.4
+xgboost == 1.6.2
 streamlit
