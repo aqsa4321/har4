@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd 
 import joblib
 import matplotlib.pyplot as plt
+import xgboost
 from matplotlib.ticker import StrMethodFormatter
 import streamlit as st
 from PIL import Image
